@@ -29,6 +29,8 @@
 		C4A2776E2B15092C00F37C9C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C4A277702B15092C00F37C9C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C4A277712B15092C00F37C9C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		C4A277782B150D3300F37C9C /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		C4A277792B150D6B00F37C9C /* Demo.MP4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = Demo.MP4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,6 +47,8 @@
 		C4A277532B15092B00F37C9C = {
 			isa = PBXGroup;
 			children = (
+				C4A277782B150D3300F37C9C /* README.md */,
+				C4A277792B150D6B00F37C9C /* Demo.MP4 */,
 				C4A2775E2B15092B00F37C9C /* PhoneDataDetectorExample */,
 				C4A2775D2B15092B00F37C9C /* Products */,
 			);
